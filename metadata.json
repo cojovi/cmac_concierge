@@ -1,0 +1,5 @@
+{
+  "name": "CMAC Concierge",
+  "description": "A retro-arcade styled intelligent scheduling assistant for CMAC Roofing internal teams, powered by Google Gemini.",
+  "requestFramePermissions": []
+}
